@@ -26,7 +26,7 @@ Testimonios:
 
 Contacto:
 
-![Contacto](imagenes/screenshot5.png)
+![Contacto](imagenes/5.png)
 
 ## Tecnologías
 
